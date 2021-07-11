@@ -21,4 +21,4 @@
 # Портфолио задач по SQL
 | Проект | Описание |
 |----------------|---------|
-| [Решения задач с сайта sql-ex.ru](https://github.com/OlegDze/public/blob/main/sql_ex_solutions.ipynb) | Схемы таблиц с данными и задачи взяты с сайта https://www.sql-ex.ru/ от 6 июня 2021 года. На этот момент времени на сайте 155 задач. Для них представлены решения. |
+| [Решения задач с сайта sql-ex.ru](https://github.com/OlegDze/public/blob/main/sql_ex_solutions.md) | Решение задач с сайта sql-ex.ru от 6 июня 2021 года. |
