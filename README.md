@@ -21,4 +21,4 @@
 # Портфолио задач по SQL
 | Проект | Описание |
 |----------------|---------|
-| [Решения задач с сайта sql-ex.ru](https://github.com/OlegDze/public/blob/main/sql_ex_solutions.md) | Решение задач с сайта sql-ex.ru от 6 июня 2021 года. |
+| [Решения задач с сайта sql-ex.ru](https://github.com/OlegDze/public/blob/main/sql_ex_solutions.md) | Первые 60 задач с сайта sql-ex.ru на 11 июля 2021 и решения для них. |
